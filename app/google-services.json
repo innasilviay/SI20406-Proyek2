@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625678247049",
+    "project_id": "laundry-2e10a",
+    "storage_bucket": "laundry-2e10a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625678247049:android:f771f13e1dc9cb7c5b5258",
+        "android_client_info": {
+          "package_name": "app.laundryq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625678247049-r32m826ocdc63r1k8tbossv2vagfg8k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbi5VeCc3jIZFUYtw88i3snTdAy8LuHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625678247049-r32m826ocdc63r1k8tbossv2vagfg8k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
